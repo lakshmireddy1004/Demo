@@ -17,7 +17,7 @@ class Solution{
 
                 b=b*2;
             }
-            System.out.println("");
+            System.out.println("heyyy");
         }
         in.close();
     }
